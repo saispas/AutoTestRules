@@ -31,6 +31,7 @@ DOMAIN,ad.api.3g.tudou.com,REJECT
 DOMAIN,ad.api.3g.youku.com,REJECT
 DOMAIN,ad.csdn.net,REJECT
 DOMAIN,ad.dedecms.com,REJECT
+DOMAIN,ad.mobile.youku.com,REJECT
 DOMAIN,ad.test.ximalaya.com,REJECT
 DOMAIN,ad.toutiao.com,REJECT
 DOMAIN,ad.vsnoon.com,REJECT
@@ -281,6 +282,7 @@ DOMAIN-KEYWORD,admob,REJECT
 DOMAIN-KEYWORD,adocean,REJECT
 DOMAIN-KEYWORD,ads,REJECT
 DOMAIN-KEYWORD,analytics,REJECT
+DOMAIN-KEYWORD,baidu,REJECT
 DOMAIN-KEYWORD,clkservice,REJECT
 DOMAIN-KEYWORD,cnzz,REJECT
 DOMAIN-KEYWORD,counter,REJECT
